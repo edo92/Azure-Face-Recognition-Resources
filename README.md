@@ -14,7 +14,7 @@
 
 ---
 
-## [Setup Azure DevOps Pipeline ](https://github.com/cyber-netics/Azure-Face-Recognition-Resources/blob/main/.assets/devops/devops.md#setup-azure-devops-pipeline)
+## [Setup Azure DevOps Pipeline ](https://github.com/edo92/Azure-Face-Recognition-Resources/blob/docs/devops/devops.md#setup-azure-devops-pipeline)
 
 ## Usage
 
