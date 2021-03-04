@@ -1,1 +1,0 @@
-# Azure-Face-Recognition-Resources
