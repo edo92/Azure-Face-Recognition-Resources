@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "resolveJsonModule": true,
+    "noEmit": true,
+    "rootDir": "__tests__"
+  },
+  "include": ["__tests__/*"]
+}
