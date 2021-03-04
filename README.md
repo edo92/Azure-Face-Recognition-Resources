@@ -1,5 +1,3 @@
-[![Build Status](https://dev.azure.com/AzureResourcesLab/AzureResources/_apis/build/status/cyber-netics.Azure-Face-Recognition-Resources?branchName=main)]()
-
 [![All Contributors](https://img.shields.io/badge/all_contributors-welcome-orange.svg?style=shield)](#contributors)
 
 <br/>
