@@ -1,0 +1,9 @@
+{
+  "faceDetectResult": [
+    {
+      "faceId": "08d0b850-8a26-4fa9-936a-2fefa0e53d67",
+      "faceRectangle": { "top": 605, "left": 188, "width": 558, "height": 558 },
+      "faceAttributes": { "gender": "female", "age": 20 }
+    }
+  ]
+}
